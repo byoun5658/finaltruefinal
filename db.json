@@ -3,53 +3,53 @@
     "chemistry": [
       {
         "question": 0,
-        "total": 0,
-        "correct": 0
+        "total": 23,
+        "correct": 3
       },
       {
         "question": 1,
-        "total": 0,
-        "correct": 0
+        "total": 23,
+        "correct": 14
       },
       {
         "question": 2,
-        "total": 0,
-        "correct": 0
+        "total": 20,
+        "correct": 8
       },
       {
         "question": 3,
-        "total": 0,
-        "correct": 0
+        "total": 20,
+        "correct": 8
       },
       {
         "question": 4,
-        "total": 0,
-        "correct": 0
+        "total": 20,
+        "correct": 3
       },
       {
         "question": 5,
-        "total": 0,
-        "correct": 0
+        "total": 20,
+        "correct": 4
       },
       {
         "question": 6,
-        "total": 0,
-        "correct": 0
+        "total": 20,
+        "correct": 14
       },
       {
         "question": 7,
-        "total": 0,
-        "correct": 0
+        "total": 14,
+        "correct": 10
       },
       {
         "question": 8,
-        "total": 0,
-        "correct": 0
+        "total": 14,
+        "correct": 10
       },
       {
         "question": 9,
-        "total": 0,
-        "correct": 0
+        "total": 12,
+        "correct": 4
       }
     ]
   }
