@@ -13,28 +13,28 @@
       },
       {
         "question": 2,
-        "total": 20,
+        "total": 21,
         "correct": 8
       },
       {
         "question": 3,
-        "total": 20,
-        "correct": 8
+        "total": 21,
+        "correct": 7
       },
       {
         "question": 4,
-        "total": 20,
+        "total": 19,
         "correct": 3
       },
       {
         "question": 5,
-        "total": 20,
+        "total": 19,
         "correct": 4
       },
       {
         "question": 6,
-        "total": 20,
-        "correct": 14
+        "total": 18,
+        "correct": 13
       },
       {
         "question": 7,
@@ -44,7 +44,7 @@
       {
         "question": 8,
         "total": 14,
-        "correct": 10
+        "correct": 9
       },
       {
         "question": 9,
